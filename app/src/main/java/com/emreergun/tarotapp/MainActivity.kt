@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         //TarotGetInfosAsyncTask(this).execute()
 
-        tarotList=SharedPrefHelper.getTarotList(this)
+        tarotList=SharedPrefHelper.getRawJsonData(this)
         tarotList.shuffle()
         val tarotAdapter=TarotAdapter(tarotList)
 
@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
             adapter?.notifyDataSetChanged()
         }
 
+        firstRecyclerView.smoothScrollToPosition(tarotList.size-1)
 
 
         var counter=0

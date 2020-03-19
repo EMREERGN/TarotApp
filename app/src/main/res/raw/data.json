@@ -1,1 +1,314 @@
-[{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-00-Fool-Tarot-Meaning.png","name":"00. The Fool"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-01-Magician-Tarot-Meaning.png","name":"1. The Magician"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-02-High-Priestess-Tarot-Meaning.png","name":"2. High Priestess"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-03-Empress-Tarot-Meaning.png","name":"3. The Empress"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-04-Emperor-Tarot-Meaning.png","name":"4. The Emperor"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-05-Hierophant-Tarot-Meaning.png","name":"5. The Hierophant"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-06-Lovers-Tarot-Meaning.png","name":"6. The Lovers"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-07-Chariot-Tarot-Meaning.png","name":"7. The Chariot"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-08-Strength-Tarot-Meaning.png","name":"8. Strength"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-09-Hermit-Tarot-Meaning.png","name":"9. The Hermit"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-Wheel-Tarot-Meaning.png","name":"10. The Wheel"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Justice-Tarot-Meaning.png","name":"11. Justice"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Hanged-Man-Tarot-Meaning.png","name":"12. The Hanged Man"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Death-Tarot-Meaning.png","name":"13. Death"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-Temperance-Tarot-Meaning.png","name":"14. Temperance"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-15-Devil-Tarot-Meaning.png","name":"15. The Devil"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-16-Tower-Tarot-Meaning.png","name":"16. The Tower"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-17-Star-Tarot-Meaning.png","name":"17. The Star"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-18-Moon-Tarot-Meaning.png","name":"18. The Moon"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-19-Sun-Tarot-Meaning.png","name":"19. The Sun"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-20-Judgement-Tarot-Meaning.png","name":"20. Judgement"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-21-World-Tarot-Meaning.png","name":"21. The World"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/06/LightSeers-1-Ace-of-Wands-Tarot-Meaning.png","name":"Ace of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-2-of-Wands-Tarot-Meaning.png","name":"2 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-3-of-Wands-Tarot-Meaning.png","name":"3 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-4-of-Wands-Tarot-Meaning.png","name":"4 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-5-of-Wands-Tarot-Meaning.png","name":"5 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-6-of-Wands-Tarot-Meaning.png","name":"6 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-7-of-Wands-Tarot-Meaning.png","name":"7 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-8-of-Wands-Tarot-Meaning.png","name":"8 of Wands"},{"imageUrl":"https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-9-of-
+[
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-00-Fool-Tarot-Meaning.png",
+    "name": "00. The Fool"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-01-Magician-Tarot-Meaning.png",
+    "name": "1. The Magician"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-02-High-Priestess-Tarot-Meaning.png",
+    "name": "2. High Priestess"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-03-Empress-Tarot-Meaning.png",
+    "name": "3. The Empress"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-04-Emperor-Tarot-Meaning.png",
+    "name": "4. The Emperor"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-05-Hierophant-Tarot-Meaning.png",
+    "name": "5. The Hierophant"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-06-Lovers-Tarot-Meaning.png",
+    "name": "6. The Lovers"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-07-Chariot-Tarot-Meaning.png",
+    "name": "7. The Chariot"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-08-Strength-Tarot-Meaning.png",
+    "name": "8. Strength"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-09-Hermit-Tarot-Meaning.png",
+    "name": "9. The Hermit"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-Wheel-Tarot-Meaning.png",
+    "name": "10. The Wheel"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Justice-Tarot-Meaning.png",
+    "name": "11. Justice"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Hanged-Man-Tarot-Meaning.png",
+    "name": "12. The Hanged Man"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Death-Tarot-Meaning.png",
+    "name": "13. Death"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-Temperance-Tarot-Meaning.png",
+    "name": "14. Temperance"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-15-Devil-Tarot-Meaning.png",
+    "name": "15. The Devil"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-16-Tower-Tarot-Meaning.png",
+    "name": "16. The Tower"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-17-Star-Tarot-Meaning.png",
+    "name": "17. The Star"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-18-Moon-Tarot-Meaning.png",
+    "name": "18. The Moon"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-19-Sun-Tarot-Meaning.png",
+    "name": "19. The Sun"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-20-Judgement-Tarot-Meaning.png",
+    "name": "20. Judgement"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-21-World-Tarot-Meaning.png",
+    "name": "21. The World"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/06/LightSeers-1-Ace-of-Wands-Tarot-Meaning.png",
+    "name": "Ace of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-2-of-Wands-Tarot-Meaning.png",
+    "name": "2 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-3-of-Wands-Tarot-Meaning.png",
+    "name": "3 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-4-of-Wands-Tarot-Meaning.png",
+    "name": "4 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-5-of-Wands-Tarot-Meaning.png",
+    "name": "5 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-6-of-Wands-Tarot-Meaning.png",
+    "name": "6 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-7-of-Wands-Tarot-Meaning.png",
+    "name": "7 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-8-of-Wands-Tarot-Meaning.png",
+    "name": "8 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-9-of-Wands-Tarot-Meaning.png",
+    "name": "9 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-of-Wands-Tarot-Meaning.png",
+    "name": "10 of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Page-of-Wands-Tarot-Meaning.png",
+    "name": "Page of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Knight-of-Wands-Tarot-Meaning.png",
+    "name": "Knight of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Queen-of-Wands-Tarot-Meaning.png",
+    "name": "Queen of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-King-of-Wands-Tarot-Meaning.png",
+    "name": "King of Wands"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/06/LightSeers-1-Ace-of-Cups-Tarot-Meaning.png",
+    "name": "Ace of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-2-of-Cups-Tarot-Meaning.png",
+    "name": "2 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-3-of-Cups-Tarot-Meaning.png",
+    "name": "3 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-4-of-Cups-Tarot-Meaning.png",
+    "name": "4 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-5-of-Cups-Tarot-Meaning.png",
+    "name": "5 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-6-of-Cups-Tarot-Meaning.png",
+    "name": "6 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-7-of-Cups-Tarot-Meaning.png",
+    "name": "7 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-8-of-Cups-Tarot-Meaning.png",
+    "name": "8 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-9-of-Cups-Tarot-Meaning.png",
+    "name": "9 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-of-Cups-Tarot-Meaning.png",
+    "name": "10 of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Page-of-Cups-Tarot-Meaning.png",
+    "name": "Page of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Knight-of-Cups-Tarot-Meaning.png",
+    "name": "Knight of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Queen-of-Cups-Tarot-Meaning.png",
+    "name": "Queen of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-King-of-Cups-Tarot-Meaning.png",
+    "name": "King of Cups"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/06/LightSeers-1-Ace-of-Swords-Tarot-Meaning.png",
+    "name": "Ace of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-2-of-Swords-Tarot-Meaning.png",
+    "name": "2 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-3-of-Swords-Tarot-Meaning.png",
+    "name": "3 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-4-of-Swords-Tarot-Meaning.png",
+    "name": "4 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-5-of-Swords-Tarot-Meaning.png",
+    "name": "5 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-6-of-Swords-Tarot-Meaning.png",
+    "name": "6 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-7-of-Swords-Tarot-Meaning.png",
+    "name": "7 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-8-of-Swords-Tarot-Meaning.png",
+    "name": "8 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-9-of-Swords-Tarot-Meaning.png",
+    "name": "9 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-Of-Swords-Tarot-Meaning.png",
+    "name": "10 of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Page-of-Swords-Tarot-Meaning.png",
+    "name": "Page of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Knight-of-Swords-Tarot-Meaning.png",
+    "name": "Knight of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Queen-of-Swords-Tarot-Meaning.png",
+    "name": "Queen of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-King-of-Swords-Tarot-Meaning.png",
+    "name": "King of Swords"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/06/LightSeers-1-Ace-of-Pentacles-Tarot-Meaning.png",
+    "name": "Ace of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-2-of-Pentacles-Tarot-Meaning.png",
+    "name": "2 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-3-of-Pentacles-Tarot-Meaning.png",
+    "name": "3 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-4-of-Pentacles-Tarot-Meaning.png",
+    "name": "4 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-5-of-Pentacles-Tarot-Meaning.png",
+    "name": "5 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-6-of-Pentacles-Tarot-Meaning.png",
+    "name": "6 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-7-of-Pentacles-Tarot-Meaning.png",
+    "name": "7 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-8-of-Pentacles-Tarot-Meaning.png",
+    "name": "8 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-9-of-Pentacles-Tarot-Meaning.png",
+    "name": "9 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-10-of-Pentacles-Tarot-Meaning.png",
+    "name": "10 of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-11-Page-of-Pentacles-Tarot-Meaning.png",
+    "name": "Page of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-12-Knight-of-Pentacles-Tarot-Meaning.png",
+    "name": "Knight of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-13-Queen-of-Pentacles-Tarot-Meaning.png",
+    "name": "Queen of Pentacles"
+  },
+  {
+    "imageUrl": "https://lightseerstarot.com/wp-content/uploads/2019/07/LightSeers-14-King-of-Pentacles-Tarot-Meaning.png",
+    "name": "King of Pentacles"
+  }
+]
