@@ -26,17 +26,7 @@
             android:layout_height="match_parent">
         </androidx.recyclerview.widget.RecyclerView>
 
-        <Button
-            android:id="@+id/randomBtn"
-            android:textColor="@android:color/white"
-            android:text="Random"
-            android:background="@android:color/black"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentBottom="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
 
-        </Button>
 
         <View
             android:layout_alignParentBottom="true"
@@ -49,40 +39,63 @@
     </RelativeLayout>
 
 
-
-
-    <androidx.appcompat.widget.LinearLayoutCompat
+    <RelativeLayout
         android:layout_weight="1"
-        android:weightSum="3"
-        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="0dp">
-        <ImageView
-            android:id="@+id/image1"
-            android:padding="5dp"
-            android:src="@drawable/tarotcover"
-            android:layout_weight="1"
-            android:layout_width="0dp"
-            android:layout_height="match_parent">
-        </ImageView>
-        <ImageView
-            android:id="@+id/image2"
-            android:padding="5dp"
-            android:src="@drawable/tarotcover"
-            android:layout_weight="1"
-            android:layout_width="0dp"
-            android:layout_height="match_parent">
-        </ImageView>
-        <ImageView
-            android:id="@+id/image3"
-            android:padding="5dp"
-            android:src="@drawable/tarotcover"
-            android:layout_weight="1"
-            android:layout_width="0dp"
-            android:layout_height="match_parent">
-        </ImageView>
 
-    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <Button
+            android:id="@+id/randomBtn"
+            android:textColor="@android:color/white"
+            android:text="Random"
+            android:background="@android:color/black"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:weightSum="3"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/image1"
+                android:padding="5dp"
+                android:src="@drawable/tarotcover"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent">
+            </ImageView>
+            <ImageView
+                android:id="@+id/image2"
+                android:padding="5dp"
+                android:src="@drawable/tarotcover"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent">
+            </ImageView>
+            <ImageView
+                android:id="@+id/image3"
+                android:padding="5dp"
+                android:src="@drawable/tarotcover"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent">
+            </ImageView>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </RelativeLayout>
+
+
+
 
 
 </LinearLayout>
